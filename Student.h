@@ -8,7 +8,7 @@ class Student
         char name[20];
   
   // public section
-  public;
+  public:
   //    assignDetails() method declaration
        void assingnDetails(int psudentId,char pname[20]);
   //    display() method declaration
